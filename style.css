@@ -21,6 +21,8 @@ body {
 }
 
 .activation-form {
+  padding-top: 50%;
+  padding-bottom;
   background: #212121;
   width: 450px;
   border-radius: 20px;
